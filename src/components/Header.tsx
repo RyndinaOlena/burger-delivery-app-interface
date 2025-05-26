@@ -13,6 +13,7 @@ const Header: React.FC = () => {
                     <h1 className="text-xl md:text-2xl font-bold text-slate-800 dark:text-slate-200">
                         Military Gallery
                     </h1>
+                    <p>WELCOME TO MY PROJECT</p>
                 </div>
 
                 <button
