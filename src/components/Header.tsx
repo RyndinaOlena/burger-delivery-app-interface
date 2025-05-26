@@ -7,7 +7,6 @@ const Header: React.FC = () => {
 
     return (
         <header className="sticky top-0 z-20 bg-slate-200 dark:bg-slate-800 shadow-md transition-colors duration-300">
-            <h1>hi world</h1>
             <div className="container mx-auto px-4 py-4 flex justify-between items-center">
                 <div className="flex items-center space-x-2">
                     <Shield className="h-8 w-8 text-slate-700 dark:text-slate-300" />
